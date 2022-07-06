@@ -10,7 +10,7 @@
         "128":"icons/icon-128x128.png"
     },
     "background": {
-        "service_worker": "background.js"
+        "scripts": ["jquery-3.4.1.min.js","background.js"]
     },
     "options_page": "options.html",
     "browser_action": {
